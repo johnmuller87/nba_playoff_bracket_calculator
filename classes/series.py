@@ -1,4 +1,4 @@
-class Series:
+class Series(object):
     def __init__(self, series_name="",
                  is_result=False,
                  home_team_name="",
